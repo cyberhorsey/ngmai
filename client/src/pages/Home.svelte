@@ -9,6 +9,7 @@
 
 <div class="max-w-xl">
   <h1 class="mb-5 text-5xl font-bold">ngmAI</h1>
+  <p class="mb-5">a bunch are left</p>
   <p class="mb-5">ready?</p>
   <img style="border-radius: 99%;" src="1.gif" />
   <br />
