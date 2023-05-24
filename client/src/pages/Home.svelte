@@ -10,7 +10,7 @@
 <div class="max-w-xl">
   <h1 class="mb-5 text-5xl font-bold">ngmAI</h1>
   <p class="mb-5">ready?</p>
-  <img src="1.gif" />
+  <img style="border-radius: 99%;" src="1.gif" />
   <br />
   {#if !$signer}
     <ConnectWallet />
