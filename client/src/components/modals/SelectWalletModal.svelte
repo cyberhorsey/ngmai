@@ -23,7 +23,8 @@
   <div class="flex flex-col justify-between">
     <button
       class="btn btn-wide"
-      on:click={async () => await connect(connectMetamask)}>Metamask</button
+      on:click={async () => await connect(connectMetamask)}
+      >Metamask or Gamestop (if set to default)</button
     >
     <br />
   </div>
