@@ -9,7 +9,7 @@
 
 <div class="max-w-xl">
   <h1 class="mb-5 text-5xl font-bold">ngmAI</h1>
-  <p class="mb-5">ready? only works on desktop, sorry</p>
+  <p class="mb-5">ready?</p>
   {#if !$signer}
     <ConnectWallet />
     <br />
