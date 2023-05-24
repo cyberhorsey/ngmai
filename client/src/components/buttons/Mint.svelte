@@ -33,7 +33,7 @@
 {/if}
 
 {#if $amount}
-  there are this many minted: {$amount} out of 888
+  there are this many minted: {$amount} out of 888. each mint costs 0.008 ETH.
 {/if}
 <br />
 <div class="btn btn-wide" on:click={async () => await mint()}>LFG</div>
